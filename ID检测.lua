@@ -3,7 +3,7 @@ if game.PlaceId == 6839171747 then--doors
 --脚本链接🔗
 elseif game.PlaceId == 3623096087 then--力量传奇
     LENGScript = "名脚本"
---脚本链接
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E5%8A%9B%E9%87%8F%E4%BC%A0%E5%A5%87%E5%B7%B2%E5%8A%A0%E5%AF%86.lua",true))()
 elseif game.PlaceId == 7239319209 then--Ohio
     LENGScript = "名脚本"
 --脚本链接
