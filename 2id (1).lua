@@ -9,7 +9,7 @@ elseif game.PlaceId == 7239319209 then--Ohio
 --脚本链接
 elseif game.PlaceId == 4618049391 then--河北唐县
     LENGScript = "名脚本"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wumingjiaoben/ui/refs/heads/main/Protected_9230489967710645.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E4%BE%9D%E8%84%9A%E6%9C%AC%E5%94%90%E5%8E%BF.lua",true))()
 elseif game.PlaceId == 18241512421 then-- 狗熊岭危机
     LENGScript = "名脚本"
 --脚本链接🔗
