@@ -3,7 +3,7 @@ if game.PlaceId == 6839171747 then--doors
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E4%BE%9D%E4%B8%BB%E8%84%9A%E6%9C%AC.lua",true))()
 elseif game.PlaceId == 3623096087 then--力量传奇
     LENGScript = "名脚本"
---脚本链接
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E4%BE%9D%E4%B8%BB%E8%84%9A%E6%9C%AC.lua",true))()
 elseif game.PlaceId == 7239319209 then--Ohio
     LENGScript = "名脚本"
 --脚本链接
