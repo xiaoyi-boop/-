@@ -2,13 +2,13 @@ if game.PlaceId == 6839171747 then--doors
     LENGScript = "名脚本"
 --脚本链接🔗
 elseif game.PlaceId == 3623096087 then--力量传奇
-    LENGScript = "名脚本"
+    LENGScript = "依脚本"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E5%8A%9B%E9%87%8F%E4%BC%A0%E5%A5%87%E5%B7%B2%E5%8A%A0%E5%AF%86.lua",true))()
 elseif game.PlaceId == 7239319209 then--Ohio
     LENGScript = "名脚本"
 --脚本链接
 elseif game.PlaceId == 4618049391 then--河北唐县
-    LENGScript = "名脚本"
+    LENGScript = "依脚本"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E6%B2%B3%E5%8C%97%E5%94%90%E5%8E%BF.lua",true))()
 elseif game.PlaceId == 18241512421 then-- 狗熊岭危机
     LENGScript = "名脚本"
