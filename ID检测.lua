@@ -36,7 +36,7 @@ elseif game.PlaceId == 2753915549 then--BF
 --脚本链接🔗
 elseif game.PlaceId == 3101667897 then--极速传奇
     LENGScript = "名脚本"
---脚本链接🔗
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E4%BE%9D%E4%B8%BB%E8%84%9A%E6%9C%AC.lua",true))()
 else--通用
     LENGScript = "名脚本"
 --脚本链接
