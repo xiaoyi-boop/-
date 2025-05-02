@@ -1,6 +1,4 @@
 if game == "Roblox" and script == "依依依依依依依依依依依依依依依依依依依依依依依依依依依" then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaoyi-boop/-/refs/heads/main/%E4%BE%9D%E4%B8%BB%E8%84%9A%E6%9C%AC.lua",true))()
-else
 local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))() 
  local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))() 
 
